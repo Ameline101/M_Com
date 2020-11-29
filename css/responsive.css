@@ -120,6 +120,10 @@
 
 @media (max-width: 767px) {
 
+  .sticky-logo h1 {
+    font-size: 25px;
+  }
+
   .header-area {
     height: 60px !important;
     background: #000;
